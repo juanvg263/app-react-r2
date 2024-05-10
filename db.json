@@ -1,0 +1,18 @@
+{
+  "usuarios": [
+    {
+      "id": "JuanVG",
+      "nombre": "Juan Jose Villegas",
+      "password": "1234",
+      "correo": "juan@gmail.com",
+      "genero": "hombre"
+    },
+    {
+      "id": "LuisV",
+      "nombre": "Luis Villegas",
+      "password": "12345",
+      "correo": "luis@gmail.com",
+      "genero": "hombre"
+    }
+  ]
+}
